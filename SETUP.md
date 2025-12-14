@@ -187,6 +187,3 @@ Se encontrar problemas:
 2. Verifique o [GitHub Issues](https://github.com/2223262/marievault/issues)
 3. Revise a documentação da [CheapShark API](https://apidocs.cheapshark.com/)
 
----
-
-**Desenvolvido com ❤️ por Manus AI**
