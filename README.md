@@ -2,7 +2,7 @@
 
 Uma aplicação web para descoberta de promoções de videojogos, inspirada na estética vibrante de **Persona 4**. Desenvolvida como tarefa final do módulo M7.
 
-Short Video:[](https://www.youtube.com/shorts/wJ84vpMX0_o)
+Short Video:[MarieVault - video](https://www.youtube.com/shorts/wJ84vpMX0_o)
 
 ## 🌟 Funcionalidades
 
